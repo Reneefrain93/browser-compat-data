@@ -1,5 +1,48 @@
 # @mdn/browser-compat-data release notes
 
+## [v5.6.37](https://github.com/mdn/browser-compat-data/releases/tag/v5.6.37)
+
+February 6, 2025
+
+### Removals
+
+- `css.types.text-edge.ideographic` ([#25852](https://github.com/mdn/browser-compat-data/pull/25852))
+- `css.types.text-edge.ideographic-ink` ([#25852](https://github.com/mdn/browser-compat-data/pull/25852))
+
+### Additions
+
+- `api.GPUAdapterInfo.subgroupMaxSize` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.GPUAdapterInfo.subgroupMinSize` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.HTMLDialogElement.closedBy` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.HTMLDialogElement.requestClose` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.HTMLElement.popover.hint` ([#25864](https://github.com/mdn/browser-compat-data/pull/25864))
+- `api.OffscreenCanvasRenderingContext2D.getContextAttributes` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.SharedStorage.batchUpdate` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.SharedStorageAppendMethod` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.SharedStorageAppendMethod.SharedStorageAppendMethod` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.SharedStorageClearMethod` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.SharedStorageClearMethod.SharedStorageClearMethod` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.SharedStorageDeleteMethod` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.SharedStorageDeleteMethod.SharedStorageDeleteMethod` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.SharedStorageModifierMethod` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.SharedStorageSetMethod` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.SharedStorageSetMethod.SharedStorageSetMethod` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `api.SVGDiscardElement` ([#25853](https://github.com/mdn/browser-compat-data/pull/25853))
+- `css.properties.dynamic-range-limit` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `css.properties.dynamic-range-limit.constrained-high` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `css.properties.dynamic-range-limit.high` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `css.properties.dynamic-range-limit.standard` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `html.elements.dialog.closedby` ([#25866](https://github.com/mdn/browser-compat-data/pull/25866))
+- `html.global_attributes.popover.hint` ([#25864](https://github.com/mdn/browser-compat-data/pull/25864))
+- `svg.elements.discard` ([#25853](https://github.com/mdn/browser-compat-data/pull/25853))
+
+### Statistics
+
+- 5 contributors have changed 31 files with 949 additions and 131 deletions in 10 commits ([`v5.6.36...v5.6.37`](https://github.com/mdn/browser-compat-data/compare/v5.6.36...v5.6.37))
+- 16,855 total features
+- 1,128 total contributors
+- 5,080 total stargazers
+
 ## [v5.6.36](https://github.com/mdn/browser-compat-data/releases/tag/v5.6.36)
 
 February 5, 2025
